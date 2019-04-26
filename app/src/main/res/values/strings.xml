@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crossword Magic</string>
+    <string name="action_settings">Settings</string>
+    <string name="across">Across:</string>
+    <string name="down">Down:</string>
+    <string name="input_title">"Box number"</string>
+    <string name="input_text">"Enter your guess"</string>
+</resources>
